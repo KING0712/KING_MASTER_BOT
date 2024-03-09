@@ -1,14 +1,14 @@
 {
-    "name": "Stranger Robot",
+    "name": "KING MASTER BOT",
     "description": "Telegram Group Management Bot.",
-    "logo": "https://te.legra.ph/file/eace7a5d8d4b515a11e50.jpg",
+    "logo": "https://telegra.ph/file/24d14200cef8d11e082a1.png",
     "keywords": [
        "telegram",
        "modular",
        "group",
        "manager"
     ],   
- "repository": "https://github.com/itzshukla/STRANGER-ROBOT",
+ "repository": "https://github.com/KING0712/KING_MASTER_BOT",
  "stack": "heroku-22",
  "addons": [
     {
